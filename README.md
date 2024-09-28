@@ -46,5 +46,6 @@ Hem
 Head of Data Analytics | AtliQ Technologies Pvt. Ltd.
 Website: www.atliq.com
 ```
-Solution: 
-File_Name : Task_1
+Solution:
+Used_Tools : Pandas  
+File_Name : [Solution_1](https://github.com/Srabani13/Virtual_Internship/blob/main/VI_Task1_Soln.ipynb)
