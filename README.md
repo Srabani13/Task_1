@@ -74,19 +74,19 @@ Your goal is to normalize the dataset and present the final output in the form o
 - Output Data
 - Output Data 1
 - Output Data 2
-https://github.com/Srabani13/Virtual_Internship/blob/main/task2_3.png
+```
+   ![Table](https://github.com/Srabani13/Virtual_Internship/blob/main/task2_3.png)
+```
 Deadline
 Please complete this task within the next 2 days.
 
 Contact
 Best regards,
-
+```
 <img src="https://github.com/Srabani13/Virtual_Internship/blob/main/AtliQ.webp" alt="Logo" width="150"/>
 
-Hem  
-Head of Data Analytics | AtliQ Technologies Pvt. Ltd.  
-Website: www.atliq.com
-```
+
+
 Solution:
 Used_Tools : [Google Sheet]  
 File_Name : [Solution_2](https://docs.google.com/spreadsheets/d/10K8_xgI4ibk9Xhnt-DshKPoKnihRGV4-/edit?usp=sharing&ouid=111744780396337541766&rtpof=true&sd=true)
