@@ -90,3 +90,37 @@ Best regards,
 Solution:
 Used_Tools : [Google Sheet]  
 File_Name : [Solution_2](https://docs.google.com/spreadsheets/d/10K8_xgI4ibk9Xhnt-DshKPoKnihRGV4-/edit?usp=sharing&ouid=111744780396337541766&rtpof=true&sd=true)
+
+
+## WEEK 2
+### Email Task 1
+
+```
+Variance Analysis Task
+Srabani Banerjee,
+
+Here is the detailed explanation of the task.
+
+You need to conduct variance analysis to compare benchmark data (benchmarks.csv) with their current data (fact_orders.csv). The goal of this analysis is to identify and quantify the differences or variations between the two datasets. Specifically, you will be comparing the order quantity and delivery quantity from the fact_orders.csv file with the benchmark data provided in the benchmarks.csv file.
+
+Datasets:
+You will be provided with three datasets for this analysis:
+
+fact_orders.csv: Contains columns like order_id, order_placement_date, mmm_yy, customer_id, product_name, order_qty, and delivery_qty.
+dim_customers.csv: Contains columns like customer_id, customer_name, and city.
+benchmarks.csv: Contains columns like mmm_yy, customer_id, customer_name, city, total_order_quantity, and total_delivery_quantity.
+Workflow:
+Here is a brief overview of the workflow for the task:
+
+Review the benchmark data and the current data (fact_orders.csv).
+Metrics to compare between two files: Order quantity and Delivery quantity.
+Calculate the variance (absolute value) between the benchmark data and the current data for the identified metrics.
+Calculate the variance (in percentage) between the benchmark data and the current data for the identified metrics.
+Provide a complete report of the difference in numbers between the benchmark data and the main data.
+Please ensure that you thoroughly analyze the datasets and provide a comprehensive report of the differences in the order quantity and delivered quantity between the benchmark data and the main data.
+```
+
+<img src="https://github.com/Srabani13/Virtual_Internship/blob/main/AtliQ.webp" alt="Logo" width="150"/>
+
+Used_Tools : [Google Colab]  
+File_Name : [Solution_3](https://colab.research.google.com/drive/1mPuMPLipg0dJqhkVSBtOEUcPc7Bhl19M?usp=sharing)
